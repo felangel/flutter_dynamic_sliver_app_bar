@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(MyApp());
+import 'alt_main.dart';
+import 'alt_main_2.dart';
+
+void main() => runApp(Alt2App());
 
 class MyApp extends StatelessWidget {
   @override
